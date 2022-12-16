@@ -1,4 +1,4 @@
-# Turborepo starter
+# Wildebeest <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/paper-plane.svg" width="32" height="32" style="margin-left: 16px">
 
 This is an official Yarn v1 starter turborepo.
 
