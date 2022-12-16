@@ -1,0 +1,10 @@
+- [ ] setup Husky
+- [ ] setup Storybook
+- [ ] setup eslint
+- [ ] setup pretier
+- [ ] setup semantic-release
+- [ ] setup github workflows
+- [ ] setup badges
+- [ ] setup contributors file
+- [ ] setup github pages
+- [ ] write readme.md
